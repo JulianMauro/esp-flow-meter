@@ -73,7 +73,7 @@ esp_err_t wifi_sta_init(void){
         return err;
     }
 
-    err =esp_wifi_start();
+    err = esp_wifi_start();
     if(err!=ESP_OK){
         ESP_LOGE(TAG, "%s: fail to start wifi", esp_err_to_name(err));
         return err;
