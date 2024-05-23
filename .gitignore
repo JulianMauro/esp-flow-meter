@@ -1,2 +1,5 @@
 dist/
 .vscode/
+build/
+sdkconfig*
+dependencies.lock
