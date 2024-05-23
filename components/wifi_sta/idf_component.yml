@@ -1,4 +1,4 @@
-version: "1.0.0"
+version: "1.0.1"
 description: utility to configure Wi-Fi station
 url: https://github.com/mateusglucas/esp-idf-components/tree/master/components/wifi_sta
 dependencies:
